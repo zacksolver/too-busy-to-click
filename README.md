@@ -8,9 +8,10 @@ Clicks and shortcuts work as usual.
     omarchy plugin add https://github.com/zacksolver/too-busy-to-click.git
     omarchy plugin enable zacksolver.too-busy-to-click
 
-Back to the stock bar:
+## Remove
 
     omarchy plugin enable omarchy.bar
+    omarchy plugin remove zacksolver.too-busy-to-click
 
 ## Settings
 
@@ -27,3 +28,7 @@ Delays are in ms.
 ## Omarchy updates
 
 Run `./sync-upstream.sh` to pull in the latest stock bar, then `omarchy restart shell`.
+
+## License
+
+MIT. No extra dependencies, and it never changes your config.
