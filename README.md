@@ -1,5 +1,7 @@
 # Too Busy To Click
 
+![Too Busy To Click](preview.png)
+
 The Omarchy bar, but panels open on hover. Move to the next icon to switch, move away to close.
 Clicks and shortcuts work as usual.
 
