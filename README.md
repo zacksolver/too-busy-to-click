@@ -6,7 +6,7 @@ Clicks and shortcuts work as usual.
 ## Install
 
     omarchy plugin add https://github.com/zacksolver/too-busy-to-click.git
-    omarchy plugin enable too-busy-to-click
+    omarchy plugin enable zacksolver.too-busy-to-click
 
 Back to the stock bar:
 
